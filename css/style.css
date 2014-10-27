@@ -4,6 +4,7 @@
 .main_body	
 {
 	background-color:#92D0FC;
+	/*background-image:url('http://home-design-information.com/wp-content/uploads/2014/01/bathroom-floor-tile-texturebathroom-wall-tiles-texture-new-homes-specialists-home-improvement-fik6itt1.jpg');*/
 }
 
 .wrapper
@@ -36,6 +37,17 @@
 .content
 {
 	background-color:#BDE2FC;
+}
+
+.content .splash
+{
+	padding-top:20px;
+	text-align:center;
+}
+
+.content .content-row
+{
+	padding:25px;
 }
 
 .footer
