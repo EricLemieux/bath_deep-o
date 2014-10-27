@@ -81,10 +81,14 @@ li
 .content .categories
 {
 	text-align:center; 
+	
 	margin-top:25px;
 	padding-bottom:20px;
+	
 	border-top:5px solid #35AAFC;
 	border-bottom:5px solid #35AAFC;
+	
+	background-color:#DDFFFF;
 }
 
 .content .content-row
