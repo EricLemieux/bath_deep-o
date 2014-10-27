@@ -28,7 +28,7 @@
 	text-align:center;
 }
 
-.header ul
+ul
 {
 	list-style-type: none;
     margin: 0;
@@ -36,7 +36,7 @@
 	padding-top:20px;
 }
 
-.header li
+li
 {
 	display:inline;
 	
@@ -76,6 +76,15 @@
 {
 	padding-top:20px;
 	text-align:center;
+}
+
+.content .categories
+{
+	text-align:center; 
+	margin-top:25px;
+	padding-bottom:20px;
+	border-top:5px solid #35AAFC;
+	border-bottom:5px solid #35AAFC;
 }
 
 .content .content-row
