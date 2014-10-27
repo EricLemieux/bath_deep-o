@@ -1,2 +1,44 @@
 /*Style sheet*/
 @charset "utf-8";
+
+.main_body	
+{
+	background-color:#92D0FC;
+}
+
+.wrapper
+{
+	
+}
+
+.header
+{
+	background-color:#35AAFC;
+	height:150px;
+}
+
+.header .logo
+{
+	text-align:left;
+}
+
+.header .search
+{
+	padding-top:75px;
+	text-align:center;
+}
+
+.header .social
+{
+	text-align:right;
+}
+
+.content
+{
+	background-color:#BDE2FC;
+}
+
+.footer
+{
+	background-color:#35AAFC;
+}
