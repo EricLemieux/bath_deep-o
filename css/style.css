@@ -39,6 +39,11 @@
 	text-align:right;
 }
 
+.header .social img
+{
+	padding-right:10px;
+}
+
 .content
 {
 	background-color:#BDE2FC;
