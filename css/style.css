@@ -29,6 +29,11 @@
 	text-align:center;
 }
 
+.header .search .search_input
+{
+	width:300px;
+}
+
 .header .social
 {
 	text-align:right;
