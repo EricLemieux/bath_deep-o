@@ -50,6 +50,18 @@
 	padding:25px;
 }
 
+.content .cart
+{
+	width:30%; 
+	float:right;
+}
+
+.content .description
+{
+	width:70%; 
+	text-align:left;
+}
+
 .footer
 {
 	background-color:#35AAFC;
