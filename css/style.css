@@ -110,5 +110,14 @@ li
 
 .footer
 {
-	background-color:#35AAFC;
+	background-color:#DDFFFF;
+	
+	text-align:center;
+	
+	padding-bottom:20px;
+}
+
+.footer li
+{
+	font-size:80%;
 }
